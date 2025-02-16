@@ -27,7 +27,7 @@ This website is deployed directly from the `main` branch. **Important: To ensure
 
 4.  **Create a Pull Request**
 
-5.  **Merge to `main`:**
+5.  **Merge to `main`**
 
 # Media Requirements
 
